@@ -1,4 +1,33 @@
+h1 {
+	background-color: black;
+	font-family:  Lobster, Pacifico, Cursive;
+	color: purple;
+	margin: 10px 5px 10px 5px;
+	text-align: left;
+	padding-left: 10px;
+	padding-top: 35px;
+	padding-bottom: 10px;
+
+}
 div {
+	background-color: purple;
+	margin-top: 30px;
+	margin-left: 10px;
+	margin-right: 12px;
+	width: 250px;
+	height: 23px;
+	padding-top: 90px;
+	padding-left: 10px;
+	text-align: left;
+	float: left;
+
+}
+p {
+	color: white;
+	clear: both;
+
+}
+/*div {
 
 	background-color: purple;
 	margin: 20px;
@@ -9,4 +38,4 @@ div {
 }
 p {
 	clear: both;
-}
+}*/
